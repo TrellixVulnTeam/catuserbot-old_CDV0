@@ -1,3 +1,5 @@
+# DISCLAIMER
+We all know that catuserbot is updated now. But some people still love the old version of catuserbot. So that I made this repository which includes the old version of cat userbot. You can use this as your upstream repo that you can use the old version of catuserbot. I have created this repository only. I haven't developed anything. All the developers are fully credited.
 # CatUserbot
 A simple Telegram userbot based on Telethon .
 [![catuserbot logo](https://telegra.ph/file/b7dc845e3a48cde0d7bb1.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
