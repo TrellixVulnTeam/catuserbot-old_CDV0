@@ -19,7 +19,7 @@ PREV_REPLY_MESSAGE = {}
 CACHE = {}
 PMPERMIT_PIC = Config.PMPERMIT_PIC
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
-USER_BOT_WARN_ZERO = "🙄 Sorry! I warned you **not to spam** here and wait.\n\n⚠️ But you have already neglected it.\n\n🚫 So that I will block you.\n\nBemro will unblock you, if you are an important one. You better text him via @chatbemrobot.\n\nHave a Good Day! 😇\n\n[- Bemro's PM Assistant -](https://telegra.ph/file/1c6f8b9553d8469f9c1bf.png)"
+USER_BOT_WARN_ZERO = "You were spamming my peru master's inbox, henceforth you are blocked by my master's userbot. **Now GTFO, i'm playing minecraft**"
 
 
 if Config.PRIVATE_GROUP_ID != 0:
