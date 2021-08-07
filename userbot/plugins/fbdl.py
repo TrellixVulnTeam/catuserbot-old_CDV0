@@ -5,8 +5,6 @@ from datetime import datetime
 import requests
 
 
-
-
 def main(url, filename):
     try:
         download_video("HD", url, filename)
